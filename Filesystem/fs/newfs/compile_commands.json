@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/guests/190111014/user-land-filesystem/fs/newfs",
+  "command": "/usr/bin/cc  -I/home/guests/190111014/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie   -o CMakeFiles/newfs.dir/src/bitmap.c.o   -c /home/guests/190111014/user-land-filesystem/fs/newfs/src/bitmap.c",
+  "file": "/home/guests/190111014/user-land-filesystem/fs/newfs/src/bitmap.c"
+},
+{
+  "directory": "/home/guests/190111014/user-land-filesystem/fs/newfs",
+  "command": "/usr/bin/cc  -I/home/guests/190111014/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie   -o CMakeFiles/newfs.dir/src/newfs.c.o   -c /home/guests/190111014/user-land-filesystem/fs/newfs/src/newfs.c",
+  "file": "/home/guests/190111014/user-land-filesystem/fs/newfs/src/newfs.c"
+},
+{
+  "directory": "/home/guests/190111014/user-land-filesystem/fs/newfs",
+  "command": "/usr/bin/cc  -I/home/guests/190111014/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie   -o CMakeFiles/newfs.dir/src/newfs_debug.c.o   -c /home/guests/190111014/user-land-filesystem/fs/newfs/src/newfs_debug.c",
+  "file": "/home/guests/190111014/user-land-filesystem/fs/newfs/src/newfs_debug.c"
+},
+{
+  "directory": "/home/guests/190111014/user-land-filesystem/fs/newfs",
+  "command": "/usr/bin/cc  -I/home/guests/190111014/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie   -o CMakeFiles/newfs.dir/src/newfs_utils.c.o   -c /home/guests/190111014/user-land-filesystem/fs/newfs/src/newfs_utils.c",
+  "file": "/home/guests/190111014/user-land-filesystem/fs/newfs/src/newfs_utils.c"
+}
+]
