@@ -1,8 +1,11 @@
 ## Introduction
 List individual programs I have done while studying in Harbin Institute of Technology, Shenzhen
 
-| Times | Programs | Courses | IsInList |
+| Times | Programs | Courses | IsInRepo |
 | :---: | :------: | :------:| :-------:|
+| 2024-2025 | (MBTI) Myers-Briggs Personality Type Classification | Engineering Data Analysis | No |
+| 2023-2024 | Design and Implementation of Transparent Matting Algorithm based on Dual Supervised Decoder | none | No |
+| 2023-2024 | Social Media Public Opinion Situation Awareness and Rumor Detection System for Major Public Health Emergencies | none | No |
 | 2022-2023 | Cryptography Algorithms | Cryptography | Yes |
 | 2022-2023 | Pacman Algorithm | Articifial Intelligence | Yes |
 | 2022-2023 | Flower Recognition | Articifial Intelligence | Yes |
