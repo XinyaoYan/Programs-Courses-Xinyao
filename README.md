@@ -11,7 +11,7 @@ List individual programs I have done while studying in Harbin Institute of Techn
 | 2022-2023 | Flower Recognition | CV | Yes |
 | 2022-2023 | UDP/IP protocol stack | System | Yes |
 | 2022-2023 | Mail client | System | Yes |
-| 2021-2022 | XT2 File System | Operation System | Yes |
+| 2021-2022 | XT2 File System | System | Yes |
 | 2021-2022 | Heartbeat Prediction | ML | Yes |
 | 2021-2022 | Patient Prediction | ML | Yes |
 | 2021-2022 | Laboratory Administration System | Database | No |
